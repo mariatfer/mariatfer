@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Tech I'm Using</h3>
+<h2 align="left">Tech I'm Using</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Find Me On</h3>
+<h2 align="left">Find Me On</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">My GitHub Stats</h3>
+<h2 align="left">My GitHub Stats</h2>
 
 ###
 
@@ -61,8 +61,7 @@
 
 ###
 
-<h3 align="left">My Snake Contributions</h3>
-
+<h2 align="left">My Contribution Timeline</h2>
 
 ###
 
