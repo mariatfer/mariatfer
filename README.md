@@ -75,8 +75,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariatfer&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariatfer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.shion.dev/api?username=mariatfer&theme=vue&hide_border=false&include_all_commits=false&count_private=true" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mariatfer&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
 ###
